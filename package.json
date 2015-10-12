@@ -1,7 +1,7 @@
 {
   "name": "print-value",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a printable representation of a JS value",
   "license": "MIT",
   "repository": "bendrucker/print-value",
