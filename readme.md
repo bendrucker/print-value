@@ -1,4 +1,4 @@
-# print-value [![Build Status](https://travis-ci.org/bendrucker/print-value.svg?branch=master)](https://travis-ci.org/bendrucker/print-value)
+# print-value [![Build Status](https://travis-ci.org/bendrucker/print-value.svg?branch=master)](https://travis-ci.org/bendrucker/print-value) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/print-value.svg)](https://greenkeeper.io/)
 
 > Generate a printable representation of a JS value
 
